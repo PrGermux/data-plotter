@@ -1,4 +1,4 @@
-# data-plotter
+# Data Plotter
 
 This Python project is a comprehensive data visualization tool built with Python, leveraging PyQt5 for the graphical user interface and Matplotlib for data plotting. The application is designed to manage, aggregate, and visualize data from various sources, offering graphical representations of the data.
 
@@ -38,9 +38,8 @@ This repository is a valuable resource for professionals who need powerful tools
 ### Main Window
 ![grafik](https://github.com/PrGermux/data-plotter/assets/11144116/48876795-f4b6-48b9-a87c-17c21dacfc4b)
 
-
 ### Plot Example
-![grafik](https://github.com/PrGermux/data-plotter/assets/11144116/7c62bff2-5087-4338-b9e2-91ee54c1c9c2)
+![grafik](https://github.com/user-attachments/assets/95bd943c-d4c9-4794-9a9d-3a73b14e4853)
 
 ## Installation
 
